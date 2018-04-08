@@ -3,7 +3,7 @@
 int main()
 {
 
-    int x = 34;
+    int x = 22;
     int y = 78;
 
     printf("x is %d\n", x);
