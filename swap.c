@@ -1,4 +1,8 @@
 #include<stdio.h>
+void add(int a,int b)
+{
+    printf("%d",a+b);
+}
 
 int main()
 {
@@ -16,5 +20,6 @@ int main()
 
     printf("x is now %d\n", x);
     printf("y is now %d\n", y);
+    add(5,10);
 
 }
