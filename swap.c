@@ -9,6 +9,11 @@ int main()
     printf("x is %d\n", x);
     printf("y is %d\n", y);
 
+    void add(int a, int b){
+        int sum = a+b;
+        print (sum)
+    }
+
     //swapping code...
     int temp = x;
     x = y;
